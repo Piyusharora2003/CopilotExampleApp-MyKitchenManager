@@ -1,3 +1,10 @@
+## What exactly is the use of this project :  
+  The idea of building the repo is to take a step in building an AI driven Kitchen . 
+  Assume a kitchen intelligent enough to make the order list ready for the month , able to blinkit it by self , give insights of nutritional deficiencies one may get due to lack of some nutritions and many more..
+
+
+## How to run the project
+
 ## Add your OpenAI API key
 Add your environment variables to `.env.local` in the root of the project.
 ```
